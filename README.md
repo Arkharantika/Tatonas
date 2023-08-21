@@ -1,8 +1,6 @@
-TEST FULL STACK DEVELOPER
+## TEST FULL STACK DEVELOPER
 
 ## Demo on YouTube
-
-
 
 ## Quick Start
 
